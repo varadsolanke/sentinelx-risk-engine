@@ -1,0 +1,19 @@
+/**
+ * Main stylesheet bundle
+ * Cleanly organized into logical domain modules:
+ * - base.css: Tailwind setup, themes, global CSS reset and typography
+ * - dashboard.css: Layout shell, header, sidebar, hero risk gauge, market tables, metrics, venue tabs
+ * - components.css: Shared components, status notices, compact indicators
+ * - on-chain.css: OnChainRiskState card, security badges, network status, account cards
+ * - transactions.css: User transaction panel, wallet connect, order actions
+ * - live-readiness.css: Phase 5 live readiness, protocol flow diagram, event timeline
+ * - responsive.css: Responsive media queries across viewports
+ */
+
+@import "./styles/base.css";
+@import "./styles/dashboard.css";
+@import "./styles/components.css";
+@import "./styles/on-chain.css";
+@import "./styles/transactions.css";
+@import "./styles/live-readiness.css";
+@import "./styles/responsive.css";
