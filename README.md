@@ -323,10 +323,10 @@ SentinelX is developed as a collaborative full-stack development course project.
 
 | Name | Roll Number | Contribution Area |
 |---|---|---|
-| Ujwal Akotkar | 24BCS012 | Backend Development |
+| Ujwal Akotkar | 24BCS012 | Risk Engine and Analytics |
 | Shreyash Gadling | 24BDS023 | Frontend Development |
-| Akash Purbhi | 24BDS061 | Risk Engine and Analytics |
-| Varad Solanke | 24BDS079 | Smart Contracts and Testing |
+| Akash Purbhi | 24BDS061 | Smart Contracts and Testing |
+| Varad Solanke | 24BDS079 | Backend Developmant |
 
 The project combines the contributions of all four members to develop an integrated risk management platform.
 
