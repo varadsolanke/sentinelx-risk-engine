@@ -1,0 +1,9 @@
+{
+  "name": "@perps-risk/metrics",
+  "private": true,
+  "type": "module",
+  "exports": "./src/index.ts",
+  "dependencies": {
+    "@perps-risk/types": "workspace:*"
+  }
+}

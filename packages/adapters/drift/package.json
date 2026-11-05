@@ -1,0 +1,11 @@
+{
+  "name": "@perps-risk/adapter-drift",
+  "private": true,
+  "type": "module",
+  "exports": "./src/index.ts",
+  "dependencies": {
+    "@perps-risk/types": "workspace:*",
+    "@drift-labs/sdk": "2.146.0-beta.12",
+    "@solana/web3.js": "1.98.0"
+  }
+}
