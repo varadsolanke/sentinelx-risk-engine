@@ -13,7 +13,7 @@ The project combines blockchain technology, financial analytics, real-time data 
 - [Project Overview](#-project-overview)
 - [Project Objectives](#-project-objectives)
 - [Key Features](#-key-features)
-- [System Architecture](#-system-architecture)
+- [Architecture Components](#-Architecture-Components)
 - [Technology Stack](#-technology-stack)
 - [How SentinelX Works](#-how-sentinelx-works)
 - [Getting Started](#-getting-started)
